@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(104,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(196,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(223,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(304,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(304,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(313,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(314,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(328,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RITHVIK\source\repos\Minesweeper\main.cpp(329,22): warning C4018: '<': signed/unsigned mismatch
+  Minesweeper.vcxproj -> C:\Users\RITHVIK\source\repos\Minesweeper\Debug\Minesweeper.exe
